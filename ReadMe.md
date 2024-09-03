@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h1 align="center">Hi 👋, I'm Aadi Kanwar</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Model<br>👯 I’m looking to collaborate on making new algorithms.<br>🤝 I’m looking for help with my portfolio website.<br>🌱 I’m currently learning Machine Learning and Web Development<br>💬 Ask me about life.<br>⚡ Fun fact -> I don't judge !!!
 
