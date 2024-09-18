@@ -1,9 +1,26 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Aadi Kanwar</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on Machine Learning Model<br>👯 I’m looking to collaborate on making new algorithms.<br>🤝 I’m looking for help with my portfolio website.<br>🌱 I’m currently learning Machine Learning and Web Development<br>💬 Ask me about life.<br>⚡ Fun fact -> I don't judge !!!
+<img align="right" alt="Coding" width="400" src="">  
 
+# 💫 About Me:
+🔭 I’m currently working on - <br> 
+• Machine Learning Model<br><br>
+
+👯 I’m looking to collaborate on <br> 
+• Making new algorithms.<br><br>
+
+🤝 I’m looking for help with <br>
+• My portfolio website.<br><br>
+
+🌱 I’m currently learning <br>
+• Machine Learning and Web Development<br><br>
+
+💬 Ask me about <br> 
+• Life<br><br>
+
+⚡ Fun fact <br> 
+• I watch anime!!!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a.k.4.6_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadi-kanwar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/The_Solitary_Soul) 
