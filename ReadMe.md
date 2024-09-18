@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="600" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">  
+<img align="right" alt="Coding" width="550" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">  
 🔭 I’m currently working on - <br> 
 • Machine Learning Model<br><br>
 
