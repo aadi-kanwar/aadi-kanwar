@@ -1,6 +1,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center">Hi 👋, I'm Aadi Kanwar</h1>
+<h1 align="center">Hi, I'm Aadi Kanwar<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75"></h1>
 
+[![](https://visitcount.itsvg.in/api?id=aadi-kanwar&icon=4&color=3)](https://visitcount.itsvg.in)
+---
 
 # 💫 About Me:
 
@@ -40,6 +42,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aadi-kanwar&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aadi-kanwar&icon=4&color=3)](https://visitcount.itsvg.in)
 
+<p align=center>
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
