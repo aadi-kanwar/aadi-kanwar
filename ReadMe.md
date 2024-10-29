@@ -34,6 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=aadi-kanwar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadi-kanwar&theme=gotham&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-kanwar&theme=gotham&hide_border=false&&include_all_commits=truecount_private=true&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-kanwar&&theme=gotham&hide=C%23,HLSL,ShaderLab,Objective-C,Objective-C%2B%2B,GAP)
 
 
 
@@ -42,6 +43,7 @@
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aadi-kanwar&limit=5&theme=neon&combine_all_yearly_contributions=true) -->
+
 
 ---
 
