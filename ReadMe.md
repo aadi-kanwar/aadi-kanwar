@@ -33,7 +33,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aadi-kanwar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!-- ![](https://streak-stats.demolab.com?user=aadi-kanwar&theme=gotham&date_format=j%20M%5B%20Y%5D) -->
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aadi-kanwar&theme=gotham)]
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aadi-kanwar&theme=gotham)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-kanwar&theme=gotham&hide_border=false&&include_all_commits=truecount_private=true&layout=compact) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-kanwar&&theme=gotham&hide=C%23,HLSL,ShaderLab,Objective-C,Objective-C%2B%2B,GAP,CSS)
 
