@@ -11,7 +11,7 @@
 • Machine Learning Model<br><br>
 
 👯 I’m looking to collaborate on <br> 
-• Making new algorithms.<br><br>
+• AI or ML related projects.<br><br>
 
 🤝 I’m looking for help with <br>
 • My portfolio website.<br><br>
